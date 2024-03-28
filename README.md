@@ -9,7 +9,8 @@ Python  Java
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardmarecos&layout=compact&theme=dark)](https://github.com/edwardmarecos/github-readme-stats)
 
 ### 📚 Projects I'm Proud Of
-- ![Battleship AI Cover Image](/path/to/your/image.png)
+<img src="/images/battleship.png" alt="Battleship Display" width="450" style="border-radius: 10px;">
+
 - [Battleship AI](https://github.com/EdwardMarecos/Battleship-AI) - An AI bot that excels in playing battleship
 <!--- [Project Name 2](GitHub_Project_Link_2) - Explanation of the project and its impact.-->
 
