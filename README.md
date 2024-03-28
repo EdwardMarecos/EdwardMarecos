@@ -10,8 +10,8 @@ Python  Java
 
 ### 📚 Projects I'm Proud Of
 
-- [Project Name 1](GitHub_Project_Link_1) - A short description of what this project does and why it is significant.
-- [Project Name 2](GitHub_Project_Link_2) - Explanation of the project and its impact.
+- [Battleship AI](https://github.com/EdwardMarecos/Battleship-AI) - An AI bot that excels in playng battleship
+<!--- [Project Name 2](GitHub_Project_Link_2) - Explanation of the project and its impact.-->
 
 ### 📈 My LeetCode Stats
 
