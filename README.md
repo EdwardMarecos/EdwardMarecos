@@ -10,7 +10,7 @@ Python  Java
 
 ### 📚 Projects I'm Proud Of
 
-- [Battleship AI](https://github.com/EdwardMarecos/Battleship-AI) - An AI bot that excels in playng battleship
+- [Battleship AI](https://github.com/EdwardMarecos/Battleship-AI) - An AI bot that excels in playing battleship
 <!--- [Project Name 2](GitHub_Project_Link_2) - Explanation of the project and its impact.-->
 
 ### 📈 My LeetCode Stats
