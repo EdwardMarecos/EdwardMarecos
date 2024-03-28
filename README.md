@@ -6,7 +6,7 @@ Python  Java
 -->
 ### 👨‍💻 Programming Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardmarecos&theme=dark&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardmarecos&layout=compact&theme=dark)](https://github.com/edwardmarecos/github-readme-stats)
 
 ### 📚 Projects I'm Proud Of
 
