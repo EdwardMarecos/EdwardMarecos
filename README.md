@@ -4,11 +4,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&size=18&color=1a5c3a&width=500&lines=CS+grad.+Cybersecurity+focus.+NYC.&pause=0" alt="Typing SVG" />
 </a>
 
-CS grad from Boston University, based in **NYC**. Currently focused on cybersecurity — building hands-on experience through homelab work and working toward a SOC Analyst role.
+CS grad from Boston University, based in **NYC**. Currently focused on cybersecurity — building hands-on experience through homelab work and working toward a career in security.
 
 ---
+## 🔐 Security Projects
 
-## 🔐 Homelab — Wazuh SOC Environment
+### [Homelab — Wazuh SOC Environment](https://github.com/EdwardMarecos/wazuh-homelab)
 
 A full three-node lab running on VirtualBox:
 
@@ -16,11 +17,13 @@ A full three-node lab running on VirtualBox:
 - **Windows 10 VM** — Victim machine (Sysmon + Wazuh agent)
 - **Kali Linux VM** — Attacker machine
 
-Completed a full Metasploit exploitation chain with custom Wazuh detection rules, MITRE ATT&CK mapping, kill chain analysis, and File Integrity Monitoring via registry key tracking.
+Running attack simulations against a monitored Windows 10 VM, analyzing Wazuh SIEM output, and documenting findings in professional SOC-style reports. Session 1 complete.
+
+📁 [Session 1](https://github.com/EdwardMarecos/wazuh-homelab/tree/main/01%20%E2%80%94%20Metasploit%20Reverse%20Shell) — Metasploit reverse shell · 3/5 phases detected · MITRE ATT&CK mapped · full incident documentation
 
 ---
 
-## 📱 Projects
+## 📱 Development Projects
 
 ### [PYCO](https://github.com/akemisai/EdwardMarecos-AkemiSai-PYCO)
 Android social platform for clothing inventory and outfit requests. Built with a partner for BU CS Practicum.
