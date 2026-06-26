@@ -56,7 +56,11 @@ An AI bot built to play Battleship — implements targeting logic to efficiently
 |---|---|---|
 | Google Cybersecurity Professional Certificate | Google · Coursera | ✅ Completed |
 | CompTIA Security+ | CompTIA | 🔄 In Progress |
-| Microsoft Azure Fundamentals (AZ-900) | Microsoft | 🔄 In Progress |
+| ISC2 Certified in Cybersecurity (CC) | ISC2 | 🔄 In Progress |
+
+<!-- 
+| Microsoft Azure Fundamentals (AZ-900) | Microsoft | 🔄 In Progress | 
+-->
 
 ---
 
